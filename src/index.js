@@ -1,12 +1,12 @@
 import reactDom from 'react-dom';
-import Navbar from './Conteudo/Navbar.js'
+import Topo from './Conteudo/Topo.js'
 import Corpo from './Conteudo/Corpo.js'
 import BaseMobile from './Conteudo/BaseMobile.js';
 
 function App (){
     return(
     <div>
-        <Navbar />
+        <Topo />
         <Corpo />
         <BaseMobile />
     </div>

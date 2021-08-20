@@ -1,6 +1,6 @@
-import Container from './Navbar/Container.js'
+import Container from './Topo/Container.js'
 
-export default function Navbar(){
+export default function Topo(){
     return (
         <div class="navbar">
             <Container />
