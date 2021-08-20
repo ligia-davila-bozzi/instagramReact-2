@@ -1,5 +1,5 @@
-import Stories from './Stories.js'
-import Posts from './Posts.js'
+import Stories from "./Timeline/Stories";
+import Posts from "./Timeline/Posts";
 
 export default function Esquerda(){
     return(

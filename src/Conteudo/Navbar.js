@@ -1,4 +1,4 @@
-import Container from './Container.js'
+import Container from './Navbar/Container.js'
 
 export default function Navbar(){
     return (
