@@ -1,12 +1,12 @@
-import Ususario from './Sidebar/Ususario.js'
+import Usuario from './Sidebar/Usuario.js'
 import Sugestoes from './Sidebar/Sugestoes.js'
 import Links from './Sidebar/Links.js'
 import Copyright from './Sidebar/Copyright.js'
 
-export default function Sidebar(){
-    return(
+export default function Sidebar() {
+    return (
         <div class="sidebar">
-            <Ususario />  
+            <Usuario usuario='catanacomics' username="Catana" />
             <Sugestoes />
             <Links />
             <Copyright />

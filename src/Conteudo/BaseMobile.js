@@ -1,5 +1,5 @@
-export default function BaseMobile(){
-    return(
+export default function BaseMobile() {
+    return (
         <div class="fundo-mobile">
             <ion-icon name="home"></ion-icon>
             <ion-icon name="search-outline"></ion-icon>
